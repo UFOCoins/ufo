@@ -22,7 +22,7 @@ UFO Coin Specifications
 -----------------
 
 - 4 billion total coins
-- 1250 coins per block
+- 625 coins per block
 - 1 hour (40 blocks) to retarget difficulty at a factor of 2
 - Coins halves per 400000 block 
 
