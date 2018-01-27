@@ -6,7 +6,7 @@ Copyright (c) 2009-2017 UFO Core Developers
 
 Community Sites
 ---------------
-UFOcoin Website
+UFO Website
 http://ufocoin.net
 
 Reddit
@@ -18,7 +18,7 @@ https://twitter.com/UFOCoins
 Facebook
 https://www.facebook.com/ufocoin/
 
-UFO Coin Specifications
+UFO Specifications
 -----------------
 
 - 4 billion total coins
@@ -26,11 +26,11 @@ UFO Coin Specifications
 - 1 hour (40 blocks) to retarget difficulty at a factor of 2
 - Coins halves per 400000 block 
 
-What is UFOcoin?
+What is UFO?
 ----------------
 
-UFOcoin is an new digital currency that enables instant payments to
-anyone, anywhere in the world. UFO uses peer-to-peer technology to operate
+UFO (Uniform Fiscal Object) is an new digital currency that enables instant payments to
+anyone, anytime, anywhere in the world. UFO uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. UFO Core is the name of open source
 software which enables the use of this currency.
