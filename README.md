@@ -1,3 +1,5 @@
+The github repo has moved. The new GitHub URL is: https://github.com/fiscalobject/ufo
+
 Bitcoin Core integration/staging tree
 =====================================
 
